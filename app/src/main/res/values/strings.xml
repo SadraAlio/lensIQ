@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LensIQ</string>
+    <string name="camera_permission_denied">Camera permission is required to use this app.</string>
+    <string name="label_detection_failed">Failed to detect labels.</string>
+    <string name="processing_image">Processing image…</string>
+    <string name="analyze_button">Analyze</string>
+    <string name="capture_button">Capture</string>
+    <string name="results_title">Detection Results</string>
+    <string name="no_results">No objects detected.</string>
+    <string name="back_to_camera">Back to Camera</string>
+    <string name="confidence_score">Confidence: %1$.2f%%</string>
+</resources>

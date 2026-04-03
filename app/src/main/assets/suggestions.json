@@ -1,0 +1,52 @@
+{
+  "shirt": [
+    {"name": "Navy Chinos", "subtitle": "Pairs well · Slim cut", "emoji": "👖"},
+    {"name": "Derby Shoes", "subtitle": "Recommended · Leather", "emoji": "👞"},
+    {"name": "Merino Blazer", "subtitle": "Complete the look", "emoji": "🧥"}
+  ],
+  "pants": [
+    {"name": "White Oxford Shirt", "subtitle": "Classic contrast", "emoji": "👔"},
+    {"name": "Minimal Sneaker", "subtitle": "Casual · Canvas", "emoji": "👟"},
+    {"name": "Leather Belt", "subtitle": "Essential accessory", "emoji": "🤎"}
+  ],
+  "shoes": [
+    {"name": "Cotton Socks", "subtitle": "Pack of 3 · Breathable", "emoji": "🧦"},
+    {"name": "Shoe Care Kit", "subtitle": "Maintain the shine", "emoji": "🧼"},
+    {"name": "Tapered Jeans", "subtitle": "Streetwear style", "emoji": "👖"}
+  ],
+  "jacket": [
+    {"name": "Graphic Tee", "subtitle": "Layering piece", "emoji": "👕"},
+    {"name": "Knit Scarf", "subtitle": "Winter comfort", "emoji": "🧣"},
+    {"name": "Chelsea Boots", "subtitle": "Premium suede", "emoji": "👢"}
+  ],
+  "watch": [
+    {"name": "Cufflinks", "subtitle": "Formal detail", "emoji": "✨"},
+    {"name": "Silk Tie", "subtitle": "Professional look", "emoji": "👔"},
+    {"name": "Briefcase", "subtitle": "Executive leather", "emoji": "💼"}
+  ],
+  "bottle": [
+    {"name": "Cleaning Brush", "subtitle": "Long-reach · Bottle safe", "emoji": "🧹"},
+    {"name": "Carabiner Clip", "subtitle": "Outdoor utility", "emoji": "🖇️"},
+    {"name": "Protein Shaker", "subtitle": "Fitness gear", "emoji": "🥤"}
+  ],
+  "book": [
+    {"name": "Reading Lamp", "subtitle": "Eye-care LED", "emoji": "💡"},
+    {"name": "Wooden Bookmark", "subtitle": "Artisan crafted", "emoji": "🔖"},
+    {"name": "Cozy Throw", "subtitle": "Perfect for reading", "emoji": "🧶"}
+  ],
+  "phone": [
+    {"name": "MagSafe Wallet", "subtitle": "Magnetic storage", "emoji": "💳"},
+    {"name": "Lens Cleaner", "subtitle": "Streak-free kit", "emoji": "✨"},
+    {"name": "USB-C Cable", "subtitle": "Durable braided", "emoji": "🔌"}
+  ],
+  "bag": [
+    {"name": "Packing Cubes", "subtitle": "Organize travel", "emoji": "📦"},
+    {"name": "Travel Pillow", "subtitle": "Memory foam", "emoji": "☁️"},
+    {"name": "Leather Tag", "subtitle": "ID identification", "emoji": "🏷️"}
+  ],
+  "food": [
+    {"name": "Eco Tote Bag", "subtitle": "Reusable grocery", "emoji": "🛍️"},
+    {"name": "Kitchen Scale", "subtitle": "Precision cooking", "emoji": "⚖️"},
+    {"name": "Mason Jars", "subtitle": "Pantry storage", "emoji": "🫙"}
+  ]
+}
